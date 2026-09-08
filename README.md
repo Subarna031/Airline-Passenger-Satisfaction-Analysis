@@ -402,16 +402,15 @@ If loyal customers show higher satisfaction, consider improving loyalty-program 
 
 # 📷 Dashboard Preview
 
-[Executive Overview]
-<img width="538" height="334" alt="image" src="https://github.com/user-attachments/assets/7bad60c5-079a-4cb3-bea2-493fa188fd98" />
+<img width="538" height="313" alt="image" src="https://github.com/user-attachments/assets/11c5d867-16b0-4ab4-9424-b5d017bf1cf1" />
 
 
-[Passenger Experience]
-<img width="571" height="320" alt="image" src="https://github.com/user-attachments/assets/313ba866-2d14-4066-80d6-6c4134ee01e2" />
+
+<img width="572" height="314" alt="image" src="https://github.com/user-attachments/assets/49bc961c-da1a-40d5-af21-bfac8b3f4e67" />
 
 
-[Flight Performance]
-<img width="571" height="327" alt="image" src="https://github.com/user-attachments/assets/9740df6e-1f2b-47b3-a915-4b80d2b93a0f" />
+<img width="574" height="316" alt="image" src="https://github.com/user-attachments/assets/242aa6f8-62d5-445d-ae27-3dfa6858846e" />
+
 
 ---
 
